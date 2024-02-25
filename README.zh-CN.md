@@ -4,7 +4,7 @@
 
 本项目fork自[spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index)，基于原作者于2023年6月24日归档的版本并进行了一些小修改，让您可以一键部署在完全免费托管的Vercel，在一个网页中展示、分享、预览和下载您的OneDrive文件。具体部署方法请参考下面的说明。
 
-> 本版本只测试通过E5开发者帐户，其他类型的OneDrive帐户有待进一步测试。
+> 本版本只测试通过E5开发者帐户，其他类型的OneDrive帐户有待进一步测试。| Sathish
 
 ## 修改说明
 
